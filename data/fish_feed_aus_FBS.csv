@@ -1,0 +1,129 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description,methodology
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2781,"Fish, Body Oil",2010,2010,1000 tonnes,9.52,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2781,"Fish, Body Oil",2011,2011,1000 tonnes,10.45,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2781,"Fish, Body Oil",2012,2012,1000 tonnes,8.21,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2781,"Fish, Body Oil",2013,2013,1000 tonnes,5.65,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2781,"Fish, Body Oil",2014,2014,1000 tonnes,8.94,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2781,"Fish, Body Oil",2015,2015,1000 tonnes,5.16,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2781,"Fish, Body Oil",2016,2016,1000 tonnes,10.23,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2781,"Fish, Body Oil",2017,2017,1000 tonnes,10.7,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2781,"Fish, Body Oil",2018,2018,1000 tonnes,10.76,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2781,"Fish, Body Oil",2019,2019,1000 tonnes,13.01,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2781,"Fish, Body Oil",2020,2020,1000 tonnes,13.01,E,Estimated value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2763,Pelagic Fish,2010,2010,1000 tonnes,246.96,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2763,Pelagic Fish,2011,2011,1000 tonnes,203.12,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2763,Pelagic Fish,2012,2012,1000 tonnes,237.77,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2763,Pelagic Fish,2013,2013,1000 tonnes,172.53,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2763,Pelagic Fish,2014,2014,1000 tonnes,223.5,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2763,Pelagic Fish,2015,2015,1000 tonnes,180.49,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2763,Pelagic Fish,2016,2016,1000 tonnes,205.93,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2763,Pelagic Fish,2017,2017,1000 tonnes,167.45,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2763,Pelagic Fish,2018,2018,1000 tonnes,146.53,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2763,Pelagic Fish,2019,2019,1000 tonnes,171.46,I,Imputed value,new
+FBS,Food Balances (2010-),36,Australia,5521,Feed,S2763,Pelagic Fish,2020,2020,1000 tonnes,171.46,E,Estimated value,new
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1961,1961,1000 tonnes,7.8,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1962,1962,1000 tonnes,4.1,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1963,1963,1000 tonnes,3.2,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1964,1964,1000 tonnes,3.3,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1965,1965,1000 tonnes,4.3,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1966,1966,1000 tonnes,6.8,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1967,1967,1000 tonnes,3.7,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1968,1968,1000 tonnes,2.1,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1969,1969,1000 tonnes,2.5,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1970,1970,1000 tonnes,2.4,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1971,1971,1000 tonnes,0.9,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1972,1972,1000 tonnes,0.2,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1973,1973,1000 tonnes,0.2,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1974,1974,1000 tonnes,0.2,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1975,1975,1000 tonnes,0,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1976,1976,1000 tonnes,0.03,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1977,1977,1000 tonnes,0.01,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1978,1978,1000 tonnes,0,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1979,1979,1000 tonnes,0.22,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1980,1980,1000 tonnes,0.04,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1981,1981,1000 tonnes,0.16,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1982,1982,1000 tonnes,0.1,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1983,1983,1000 tonnes,0.14,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1984,1984,1000 tonnes,0.35,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1985,1985,1000 tonnes,0.33,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1986,1986,1000 tonnes,0.3,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1987,1987,1000 tonnes,0.7,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1988,1988,1000 tonnes,0.28,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1989,1989,1000 tonnes,0.78,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1990,1990,1000 tonnes,0.56,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1991,1991,1000 tonnes,0.7,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1992,1992,1000 tonnes,0.95,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1993,1993,1000 tonnes,1.46,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1994,1994,1000 tonnes,3.86,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1995,1995,1000 tonnes,6.15,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1996,1996,1000 tonnes,4.98,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1997,1997,1000 tonnes,9.2,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1998,1998,1000 tonnes,4.57,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",1999,1999,1000 tonnes,4.69,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2000,2000,1000 tonnes,8.4,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2001,2001,1000 tonnes,10.04,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2002,2002,1000 tonnes,8.18,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2003,2003,1000 tonnes,7.59,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2004,2004,1000 tonnes,5.02,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2005,2005,1000 tonnes,10.74,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2006,2006,1000 tonnes,6.71,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2007,2007,1000 tonnes,12.75,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2008,2008,1000 tonnes,11.5,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2009,2009,1000 tonnes,11.18,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2010,2010,1000 tonnes,9.52,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2011,2011,1000 tonnes,10.45,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2012,2012,1000 tonnes,8.21,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2781,"Fish, Body Oil",2013,2013,1000 tonnes,5.65,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1961,1961,1000 tonnes,42.5,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1962,1962,1000 tonnes,27,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1963,1963,1000 tonnes,23.5,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1964,1964,1000 tonnes,40.5,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1965,1965,1000 tonnes,55,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1966,1966,1000 tonnes,57.25,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1967,1967,1000 tonnes,70.5,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1968,1968,1000 tonnes,140,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1969,1969,1000 tonnes,148,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1970,1970,1000 tonnes,133,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1971,1971,1000 tonnes,159,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1972,1972,1000 tonnes,152.9,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1973,1973,1000 tonnes,78.76,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1974,1974,1000 tonnes,77.48,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1975,1975,1000 tonnes,111.07,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1976,1976,1000 tonnes,69.23,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1977,1977,1000 tonnes,44.15,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1978,1978,1000 tonnes,18.92,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1979,1979,1000 tonnes,25.41,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1980,1980,1000 tonnes,69.21,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1981,1981,1000 tonnes,38.65,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1982,1982,1000 tonnes,38.99,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1983,1983,1000 tonnes,53.31,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1984,1984,1000 tonnes,42.23,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1985,1985,1000 tonnes,69.59,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1986,1986,1000 tonnes,55.73,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1987,1987,1000 tonnes,66.87,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1988,1988,1000 tonnes,82.09,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1989,1989,1000 tonnes,144.28,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1990,1990,1000 tonnes,211.86,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1991,1991,1000 tonnes,100.94,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1992,1992,1000 tonnes,156.56,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1993,1993,1000 tonnes,113.48,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1994,1994,1000 tonnes,349.06,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1995,1995,1000 tonnes,236.91,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1996,1996,1000 tonnes,126.51,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1997,1997,1000 tonnes,134.17,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1998,1998,1000 tonnes,91.97,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,1999,1999,1000 tonnes,93.75,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2000,2000,1000 tonnes,171.96,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2001,2001,1000 tonnes,102.37,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2002,2002,1000 tonnes,134.92,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2003,2003,1000 tonnes,87.29,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2004,2004,1000 tonnes,160.05,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2005,2005,1000 tonnes,178.94,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2006,2006,1000 tonnes,156.36,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2007,2007,1000 tonnes,198.15,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2008,2008,1000 tonnes,220.45,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2009,2009,1000 tonnes,254.47,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2010,2010,1000 tonnes,246.96,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2011,2011,1000 tonnes,203.12,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2012,2012,1000 tonnes,237.77,I,Imputed value,old
+FBSH,"Food Balances (-2013, old methodology and population)",36,Australia,5521,Feed,S2763,Pelagic Fish,2013,2013,1000 tonnes,172.53,I,Imputed value,old

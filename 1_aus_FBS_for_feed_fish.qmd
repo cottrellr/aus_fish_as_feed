@@ -1,0 +1,51 @@
+---
+title: "1_feed_from_FAO_FBS"
+format: pdf
+editor: visual
+---
+
+```{r, setup}
+
+library(tidyverse)
+library(here)
+library(janitor)
+library(ggpubr)
+
+```
+
+import FBS data from FAO
+```{r}
+
+feed_fish_FBS <- read_csv("data/fish_feed_aus_FBS.csv") |> 
+  clean_names()
+
+
+
+ggplot(data = feed_fish_FBS |> arrange(item, year), aes(x = year, y = value))+
+  geom_point(aes( shape = methodology), colour = "grey10")+
+    geom_line(aes(colour = item))+
+  theme_bw()+
+  theme(text = element_text(size = 10),
+        legend.text = element_text(size=8),
+        legend.title = element_text(size=8))+
+  labs(x = "Year", y = "Use in feed (1000s tonnes)", colour = "", shape = "FBS methodology")
+  
+
+ggsave("figs/fish_use_for_feed.jpg", device = "jpg", dpi = 600, width = 15, height=8, units = "cm")
+
+```
+
+How much fish was used for feed?
+
+```{r}
+# 2015-2020 average
+
+feed_fish_FBS |> filter(year %in% c(2015:2020) & item == "Pelagic Fish") |> pull(value) |> mean()
+
+feed_fish_FBS |> filter(year %in% c(2015:2020) & item == "Fish, Body Oil") |> pull(value) |> mean()
+
+
+
+
+```
+
